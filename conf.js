@@ -13,7 +13,7 @@ jsproxy_config({
       label: '第1通道',
       lines: {
         'shiny-limit-ef25.githubabc.workers.dev': 1,
-        'square-sunset-e2ae.githubabc.workers.dev': 2,
+        'rapid-waterfall-3aa0.tiandi321.workers.dev': 2,
       }
     },
     
