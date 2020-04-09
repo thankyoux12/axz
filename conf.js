@@ -12,7 +12,8 @@ jsproxy_config({
     'defalut': {
       label: '第1通道',
       lines: {
-        '111.111.workers.dev': 1,
+        'shiny-limit-ef25.githubabc.workers.dev': 1,
+        'square-sunset-e2ae.githubabc.workers.dev': 2,
       }
     },
     
@@ -20,7 +21,7 @@ jsproxy_config({
     'defalut1': {
       label: '第2通道',
       lines: {
-        '222.222.workers.dev': 1,
+        'calm-term-e1b9.githubabc.workers.dev': 1,
       }
     },
     
@@ -28,7 +29,7 @@ jsproxy_config({
     'defalut2': {
       label: '第3通道',
       lines: {
-        '333.333.workers.dev': 1,
+        'silent-glade-de34.githubabc.workers.dev': 1,
       }
     },
   
@@ -36,7 +37,7 @@ jsproxy_config({
       'defalut3': {
       label: '第4通道',
       lines: {
-        '444.444.workers.dev': 1,
+        'square-sunset-e2ae.githubabc.workers.dev': 1,
       },
     },
     
