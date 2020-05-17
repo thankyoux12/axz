@@ -119,7 +119,8 @@
     function addNodeItem(id, text) {
       const optEl = document.createElement('option')
       optEl.id = '--' + id
-      optEl.value = id
+      optEl.text = text
+
       selNode.appendChild(optEl)
     }
 
